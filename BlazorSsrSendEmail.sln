@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorSsrSendEmail.ClientCo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorSsrSendEmail.BusinessLogic", "BlazorSsrSendEmail.BusinessLogic\BlazorSsrSendEmail.BusinessLogic.csproj", "{45020FA5-E304-4C70-98D5-5D17BAF4166B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorSsrSendEmail.UnitTests", "BlazorSsrSendEmail.UnitTests\BlazorSsrSendEmail.UnitTests.csproj", "{64AE2107-E7AB-47CC-A813-2B38E849C46C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -82,6 +84,18 @@ Global
 		{45020FA5-E304-4C70-98D5-5D17BAF4166B}.Release|x64.Build.0 = Release|Any CPU
 		{45020FA5-E304-4C70-98D5-5D17BAF4166B}.Release|x86.ActiveCfg = Release|Any CPU
 		{45020FA5-E304-4C70-98D5-5D17BAF4166B}.Release|x86.Build.0 = Release|Any CPU
+		{64AE2107-E7AB-47CC-A813-2B38E849C46C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64AE2107-E7AB-47CC-A813-2B38E849C46C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64AE2107-E7AB-47CC-A813-2B38E849C46C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{64AE2107-E7AB-47CC-A813-2B38E849C46C}.Debug|x64.Build.0 = Debug|Any CPU
+		{64AE2107-E7AB-47CC-A813-2B38E849C46C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{64AE2107-E7AB-47CC-A813-2B38E849C46C}.Debug|x86.Build.0 = Debug|Any CPU
+		{64AE2107-E7AB-47CC-A813-2B38E849C46C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64AE2107-E7AB-47CC-A813-2B38E849C46C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64AE2107-E7AB-47CC-A813-2B38E849C46C}.Release|x64.ActiveCfg = Release|Any CPU
+		{64AE2107-E7AB-47CC-A813-2B38E849C46C}.Release|x64.Build.0 = Release|Any CPU
+		{64AE2107-E7AB-47CC-A813-2B38E849C46C}.Release|x86.ActiveCfg = Release|Any CPU
+		{64AE2107-E7AB-47CC-A813-2B38E849C46C}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
