@@ -1,5 +1,5 @@
+﻿using BlazorSsrSendEmail.Data;
 using Microsoft.AspNetCore.Identity;
-using BlazorSsrSendEmail.Data;
 
 namespace BlazorSsrSendEmail.Components.Account;
 

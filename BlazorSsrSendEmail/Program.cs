@@ -1,10 +1,10 @@
-using Microsoft.AspNetCore.Components.Authorization;
-using Microsoft.AspNetCore.Identity;
-using Microsoft.EntityFrameworkCore;
-using BlazorSsrSendEmail.Client.Pages;
+﻿using BlazorSsrSendEmail.Client.Pages;
 using BlazorSsrSendEmail.Components;
 using BlazorSsrSendEmail.Components.Account;
 using BlazorSsrSendEmail.Data;
+using Microsoft.AspNetCore.Components.Authorization;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
