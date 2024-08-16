@@ -1,4 +1,4 @@
-namespace BlazorSsrSendEmail.UnitTests;
+﻿namespace BlazorSsrSendEmail.UnitTests;
 
 public class Tests
 {
