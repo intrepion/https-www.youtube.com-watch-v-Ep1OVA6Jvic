@@ -21,4 +21,8 @@
     <Using Include="NUnit.Framework" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BlazorSsrSendEmail.BusinessLogic\BlazorSsrSendEmail.BusinessLogic.csproj" />
+  </ItemGroup>
+
 </Project>
